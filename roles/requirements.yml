@@ -1,0 +1,6 @@
+---
+- src: https://github.com/preetsinghharpreet/dnsrole.git
+  name: harpreet.dns
+  scm: git
+  version: master
+

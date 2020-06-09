@@ -1,0 +1,5 @@
+---
+- name: play for dns deployment
+  hosts: all
+  roles:
+    - harpreet.dns
